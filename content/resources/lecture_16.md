@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information about solid propellants.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-512-rocket-propulsion-fall-2005/96ed93ae42ccf1e442f22c4be2377dbf_lecture_16.pdf
+file: /media/courses/16-512-rocket-propulsion-fall-2005/96ed93ae42ccf1e442f22c4be2377dbf_lecture_16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_16.pdf
 uid: 96ed93ae-42cc-f1e4-42f2-2c4be2377dbf

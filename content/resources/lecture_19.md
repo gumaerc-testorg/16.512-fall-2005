@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains table on fuels and oxidizers.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-512-rocket-propulsion-fall-2005/6dc3a91aa64dc5c5c57ae77b664ecb65_lecture_19.pdf
+file: /media/courses/16-512-rocket-propulsion-fall-2005/6dc3a91aa64dc5c5c57ae77b664ecb65_lecture_19.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_19.pdf
 uid: 6dc3a91a-a64d-c5c5-c57a-e77b664ecb65
