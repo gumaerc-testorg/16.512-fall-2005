@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lectures and topics along with links to their lecture
+  files.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Lecture Notes
 uid: 1a7892c5-8e6a-7f7b-d3ef-33897f01fd93
 ---
 
-Along with the complete set of [lecture notes]({{< baseurl >}}/pages/lecture-notes), the following readings were assigned in the class:
+Along with the complete set of {{% resource_link 1a7892c5-8e6a-7f7b-d3ef-33897f01fd93 "lecture notes" %}}, the following readings were assigned in the class:
 
 Sutton, George, and Oscar Biblarz. _Rocket Propulsion Elements_. New York, NY: Wiley-Interscience, 2000. ISBN: 0471326429.
 
@@ -39,7 +41,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/lecture_1))
+Introduction ({{% resource_link 72eda4a1-f4fc-2bba-de9d-36b935f9b605 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +50,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/lecture_1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Rocket Nozzles and Thrust ([PDF]({{< baseurl >}}/resources/lecture_2))
+Rocket Nozzles and Thrust ({{% resource_link daf1bc4c-070d-c1cf-0a26-3dbd71a966b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Rocket Nozzles and Thrust ([PDF]({{< baseurl >}}/resources/lecture_2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Ideal Nozzle Fluid Mechanics ([PDF]({{< baseurl >}}/resources/lecture_3))
+Ideal Nozzle Fluid Mechanics ({{% resource_link 166e569a-dbdb-734b-0f03-cbabcce50447 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +68,7 @@ Ideal Nozzle Fluid Mechanics ([PDF]({{< baseurl >}}/resources/lecture_3))
 4-5
 {{< tdclose >}}
 {{< tdopen >}}
-Nozzle Design: Method of Characteristics ([PDF]({{< baseurl >}}/resources/lecture_4_5))
+Nozzle Design: Method of Characteristics ({{% resource_link 52d4ca84-5732-d962-c5e4-9697f8b99533 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +77,7 @@ Nozzle Design: Method of Characteristics ([PDF]({{< baseurl >}}/resources/lectur
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Effects of Particles in Nozzle Flow ([PDF]({{< baseurl >}}/resources/lecture_6))
+Effects of Particles in Nozzle Flow ({{% resource_link a8b36c4f-d1a2-66d4-6db1-89e5a3ab8f91 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +86,7 @@ Effects of Particles in Nozzle Flow ([PDF]({{< baseurl >}}/resources/lecture_6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Convective Heat Transfer: Reynolds Analogy ([PDF]({{< baseurl >}}/resources/lecture_7))
+Convective Heat Transfer: Reynolds Analogy ({{% resource_link f5b51078-7efd-5e95-a308-3ff0e1b5158f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Convective Heat Transfer: Reynolds Analogy ([PDF]({{< baseurl >}}/resources/lect
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Convective Heat Transfer: Other Effects ([PDF]({{< baseurl >}}/resources/lecture_8))
+Convective Heat Transfer: Other Effects ({{% resource_link 8d5f7ef8-9af5-0c9c-5e53-7d78a43a71d5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +104,7 @@ Convective Heat Transfer: Other Effects ([PDF]({{< baseurl >}}/resources/lecture
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Liquid Cooling ([PDF]({{< baseurl >}}/resources/lecture_9))
+Liquid Cooling ({{% resource_link 357a8f24-5e00-20bc-fa43-530ba6ed1283 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +113,7 @@ Liquid Cooling ([PDF]({{< baseurl >}}/resources/lecture_9))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Ablative Cooling, Film Cooling ([PDF]({{< baseurl >}}/resources/lecture_10))
+Ablative Cooling, Film Cooling ({{% resource_link 15d5c5cb-7f4d-c109-bf87-d07c7c479cb4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +122,7 @@ Ablative Cooling, Film Cooling ([PDF]({{< baseurl >}}/resources/lecture_10))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Radiation Heat Transfer and Cooling ([PDF - 1 MB]({{< baseurl >}}/resources/lecture_11))
+Radiation Heat Transfer and Cooling ({{% resource_link 55064e45-cbe1-5787-9cbf-3dc0af734a72 "PDF - 1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +131,7 @@ Radiation Heat Transfer and Cooling ([PDF - 1 MB]({{< baseurl >}}/resources/lect
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Review of Equilibrium Thermochemistry ([PDF]({{< baseurl >}}/resources/lecture_12))
+Review of Equilibrium Thermochemistry ({{% resource_link bb64ea52-e742-1c68-ee22-54e3494df50b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +140,7 @@ Review of Equilibrium Thermochemistry ([PDF]({{< baseurl >}}/resources/lecture_1
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Examples of Chemical Equilibrium ([PDF]({{< baseurl >}}/resources/lecture_13))
+Examples of Chemical Equilibrium ({{% resource_link 3b97d782-2a9d-e56b-6d7a-78cdb30cef28 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +149,7 @@ Examples of Chemical Equilibrium ([PDF]({{< baseurl >}}/resources/lecture_13))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Non-Equilibrium Flows ([PDF]({{< baseurl >}}/resources/lecture_14))
+Non-Equilibrium Flows ({{% resource_link 466f2a7b-6943-4d56-3dc7-8f39b9be9bb8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +158,7 @@ Non-Equilibrium Flows ([PDF]({{< baseurl >}}/resources/lecture_14))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Selection of Propellant Mixtures ([PDF]({{< baseurl >}}/resources/lecture_15))
+Selection of Propellant Mixtures ({{% resource_link 8dbcc460-7436-4d76-9630-402f2b409e5d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +167,7 @@ Selection of Propellant Mixtures ([PDF]({{< baseurl >}}/resources/lecture_15))
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Solid Propellants: Design Goals and Constraints ([PDF]({{< baseurl >}}/resources/lecture_16))
+Solid Propellants: Design Goals and Constraints ({{% resource_link 96ed93ae-42cc-f1e4-42f2-2c4be2377dbf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +176,7 @@ Solid Propellants: Design Goals and Constraints ([PDF]({{< baseurl >}}/resources
 17-18
 {{< tdclose >}}
 {{< tdopen >}}
-Solid Propellants: Other Topics ([PDF]({{< baseurl >}}/resources/lecture_17_18))
+Solid Propellants: Other Topics ({{% resource_link adb0b150-d35f-4975-c849-0de34e768e2d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,7 +185,7 @@ Solid Propellants: Other Topics ([PDF]({{< baseurl >}}/resources/lecture_17_18))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Liquid Propellants ([PDF]({{< baseurl >}}/resources/lecture_19))
+Liquid Propellants ({{% resource_link 6dc3a91a-a64d-c5c5-c57a-e77b664ecb65 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +194,7 @@ Liquid Propellants ([PDF]({{< baseurl >}}/resources/lecture_19))
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Combustion of Liquid Propellants ([PDF]({{< baseurl >}}/resources/lecture_20))
+Combustion of Liquid Propellants ({{% resource_link 1ab34ed5-a82f-1257-26e0-a8039fd72d66 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +203,7 @@ Combustion of Liquid Propellants ([PDF]({{< baseurl >}}/resources/lecture_20))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Liquid Motors: Injection and Mixing ([PDF]({{< baseurl >}}/resources/lecture_21))
+Liquid Motors: Injection and Mixing ({{% resource_link 73c06bb7-b1ab-f084-5bbd-7a4e49e021ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +212,7 @@ Liquid Motors: Injection and Mixing ([PDF]({{< baseurl >}}/resources/lecture_21)
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Liquid Motors: Stability (Low Frequency) ([PDF]({{< baseurl >}}/resources/lecture_22))
+Liquid Motors: Stability (Low Frequency) ({{% resource_link 7af4e9f8-6da8-697b-3441-2220a60983e7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +221,7 @@ Liquid Motors: Stability (Low Frequency) ([PDF]({{< baseurl >}}/resources/lectur
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Liquid Motors: Stability (High Frequency); Acoustics ([PDF]({{< baseurl >}}/resources/lecture_23))
+Liquid Motors: Stability (High Frequency); Acoustics ({{% resource_link 05ac1f2f-fd00-ad1d-883b-de5a5bf3eaad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +230,7 @@ Liquid Motors: Stability (High Frequency); Acoustics ([PDF]({{< baseurl >}}/reso
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Pressurization and Pump Cycles ([PDF]({{< baseurl >}}/resources/lecture_24))
+Pressurization and Pump Cycles ({{% resource_link 542eb6ee-468b-20de-68d0-015d405bdbf2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +239,7 @@ Pressurization and Pump Cycles ([PDF]({{< baseurl >}}/resources/lecture_24))
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Basic Turbomachine Performance ([PDF]({{< baseurl >}}/resources/lecture_25))
+Basic Turbomachine Performance ({{% resource_link 8b222039-7190-eb67-7d15-6c4b486dd069 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +248,7 @@ Basic Turbomachine Performance ([PDF]({{< baseurl >}}/resources/lecture_25))
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Turbopumps ([PDF]({{< baseurl >}}/resources/lecture_26))
+Turbopumps ({{% resource_link b1f6e251-84cb-98de-9c14-7c9b4aabbd63 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -255,7 +257,7 @@ Turbopumps ([PDF]({{< baseurl >}}/resources/lecture_26))
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Turbines ([PDF]({{< baseurl >}}/resources/lecture_27))
+Turbines ({{% resource_link 3b3ee10c-a72d-822e-2bc4-831465ccd47f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +266,7 @@ Turbines ([PDF]({{< baseurl >}}/resources/lecture_27))
 28
 {{< tdclose >}}
 {{< tdopen >}}
-Mechanical Design of Turbomachinery ([PDF]({{< baseurl >}}/resources/lecture_28))
+Mechanical Design of Turbomachinery ({{% resource_link 6c669a77-5f31-3cb0-08a5-0ca95b0f0e75 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +275,7 @@ Mechanical Design of Turbomachinery ([PDF]({{< baseurl >}}/resources/lecture_28)
 29
 {{< tdclose >}}
 {{< tdopen >}}
-Rotordynamics Problems ([PDF]({{< baseurl >}}/resources/lecture_29))
+Rotordynamics Problems ({{% resource_link 689bf138-ea38-8487-3087-56f470e03584 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +284,7 @@ Rotordynamics Problems ([PDF]({{< baseurl >}}/resources/lecture_29))
 30
 {{< tdclose >}}
 {{< tdopen >}}
-Dynamics of Turbopump Systems: The Shuttle Engine ([PDF]({{< baseurl >}}/resources/lecture_30))
+Dynamics of Turbopump Systems: The Shuttle Engine ({{% resource_link c84df357-d211-6dac-26ea-63d5801be39f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -300,7 +302,7 @@ Active Control of Rockets
 32
 {{< tdclose >}}
 {{< tdopen >}}
-Orbital Mechanics: Review, Staging ([PDF]({{< baseurl >}}/resources/lecture_32))
+Orbital Mechanics: Review, Staging ({{% resource_link e49a0b60-2e0e-2a78-28ba-86be8a8fba07 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -309,7 +311,7 @@ Orbital Mechanics: Review, Staging ([PDF]({{< baseurl >}}/resources/lecture_32))
 33
 {{< tdclose >}}
 {{< tdopen >}}
-Performance to LEO ([PDF]({{< baseurl >}}/resources/lecture_33))
+Performance to LEO ({{% resource_link fb1a457a-e507-1db3-f70e-20235093d598 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,7 +320,7 @@ Performance to LEO ([PDF]({{< baseurl >}}/resources/lecture_33))
 34
 {{< tdclose >}}
 {{< tdopen >}}
-Performance to GEO ([PDF]({{< baseurl >}}/resources/lecture_34))
+Performance to GEO ({{% resource_link 768501e0-e6a9-ea6e-f794-c2866ea1bd63 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -327,7 +329,7 @@ Performance to GEO ([PDF]({{< baseurl >}}/resources/lecture_34))
 35-36
 {{< tdclose >}}
 {{< tdopen >}}
-Impulsive and Low-Thrust Maneuvers in Space ([PDF]({{< baseurl >}}/resources/lecture_35_36))
+Impulsive and Low-Thrust Maneuvers in Space ({{% resource_link b0b08275-3985-a3c0-2eb4-08af4d5a46a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -336,7 +338,7 @@ Impulsive and Low-Thrust Maneuvers in Space ([PDF]({{< baseurl >}}/resources/lec
 37
 {{< tdclose >}}
 {{< tdopen >}}
-Future Developments ([PDF]({{< baseurl >}}/resources/lecture_37))
+Future Developments ({{% resource_link 7c8ca9a9-7829-a5db-b8cd-ffa038c32f62 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

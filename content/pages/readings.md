@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about additional reading materials
+  regarding the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings
 uid: 66fab3db-1187-12d6-2125-e428110b2c8a
 ---
 
-Along with the complete set of [lecture notes]({{< baseurl >}}/pages/lecture-notes), the following readings were assigned in the class:
+Along with the complete set of {{% resource_link 1a7892c5-8e6a-7f7b-d3ef-33897f01fd93 "lecture notes" %}}, the following readings were assigned in the class:
 
 Sutton, George, and Oscar Biblarz. _Rocket Propulsion Elements_. New York, NY: Wiley-Interscience, 2000. ISBN: 0471326429.
 
