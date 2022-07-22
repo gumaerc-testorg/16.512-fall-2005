@@ -7,6 +7,7 @@ file: /courses/16-512-rocket-propulsion-fall-2005/542eb6ee468b20de68d0015d405bdb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture_24.pdf
 uid: 542eb6ee-468b-20de-68d0-015d405bdbf2
 ---
 This resource contains informations about thrust chamber pressurization, gas pressurization systems, titanium and figure on schematic of gas pressurization system.
-

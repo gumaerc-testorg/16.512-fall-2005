@@ -7,6 +7,7 @@ file: /courses/16-512-rocket-propulsion-fall-2005/166e569adbdb734b0f03cbabcce504
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture_3.pdf
 uid: 166e569a-dbdb-734b-0f03-cbabcce50447
 ---
 This resource contains informations about Ideal Nozzle Flow with no separation, choice of optimum expansion for a rocket flying through an atmosphere, Ideal gas, and Nozzle Flow separation effects.
-

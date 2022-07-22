@@ -5,6 +5,7 @@ file: /courses/16-512-rocket-propulsion-fall-2005/15d5c5cb7f4dc109bf87d07c7c479c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

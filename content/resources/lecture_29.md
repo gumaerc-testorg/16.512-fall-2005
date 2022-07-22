@@ -7,6 +7,7 @@ file: /courses/16-512-rocket-propulsion-fall-2005/689bf138ea388487308756f470e035
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture_29.pdf
 uid: 689bf138-ea38-8487-3087-56f470e03584
 ---
 This resource contains informations about Turbopump Rotor Dynamics, forced and self- excited vibrations, sources of Rotor-Dynamic excitation and cross-coupled forces.
-

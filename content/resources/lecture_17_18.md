@@ -6,6 +6,7 @@ file: /courses/16-512-rocket-propulsion-fall-2005/adb0b150d35f4975c8490de34e768e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_17_18.pdf
 uid: adb0b150-d35f-4975-c849-0de34e768e2d
 ---
 This resource contains combustion of solid propellants, combustion of composite propellant, burn rates, and rates and AP flame structure.
-

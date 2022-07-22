@@ -6,6 +6,7 @@ file: /courses/16-512-rocket-propulsion-fall-2005/7af4e9f86da8697b34412220a60983
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_22.pdf
 uid: 7af4e9f8-6da8-697b-3441-2220a60983e7
 ---
 This resource contains informations about combustion stability and methods of analysis for low frequency instabilities.
-

@@ -5,6 +5,7 @@ file: /courses/16-512-rocket-propulsion-fall-2005/96ed93ae42ccf1e442f22c4be2377d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_16.pdf
 uid: 96ed93ae-42cc-f1e4-42f2-2c4be2377dbf
 ---
 This resource contains information about solid propellants.
-
