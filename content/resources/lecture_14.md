@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains informations about reacting Nozzle Flow, Frozen
   Flow calculation and shuttle main engine.
 file: /courses/16-512-rocket-propulsion-fall-2005/466f2a7b69434d563dc78f39b9be9bb8_lecture_14.pdf
+file_size: 122940
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

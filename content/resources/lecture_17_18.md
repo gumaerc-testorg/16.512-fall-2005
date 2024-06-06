@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains combustion of solid propellants, combustion of
   composite propellant, burn rates, and rates and AP flame structure.
 file: /courses/16-512-rocket-propulsion-fall-2005/adb0b150d35f4975c8490de34e768e2d_lecture_17_18.pdf
+file_size: 385100
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

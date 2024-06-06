@@ -4,6 +4,7 @@ description: This resource contains informations about thrust chamber pressuriza
   gas pressurization systems, titanium and figure on schematic of gas pressurization
   system.
 file: /courses/16-512-rocket-propulsion-fall-2005/542eb6ee468b20de68d0015d405bdbf2_lecture_24.pdf
+file_size: 115360
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
