@@ -4,6 +4,7 @@ description: This resource contains informations about calculations for launch t
   geostationary orbit, idealized direct GTO injection, idealized two burn GTO injection
   and equatorial launch.
 file: /courses/16-512-rocket-propulsion-fall-2005/768501e0e6a9ea6ef794c2866ea1bd63_lecture_34.pdf
+file_size: 259109
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

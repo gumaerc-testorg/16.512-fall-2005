@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains informations about rocket thrust, momentum balance,
   thrust equation, jet power and Stagnation Enthalpy.
 file: /courses/16-512-rocket-propulsion-fall-2005/daf1bc4c070dc1cf0a263dbd71a966b0_lecture_2.pdf
+file_size: 144944
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains informations about effect of solid or liquid particles
   in Nozzle Flow and criterion for slip.
 file: /courses/16-512-rocket-propulsion-fall-2005/a8b36c4fd1a266d46db189e5a3ab8f91_lecture_6.pdf
+file_size: 126174
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

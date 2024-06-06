@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains informations about turbopump components and centrifugal
   turbopumps.
 file: /courses/16-512-rocket-propulsion-fall-2005/b1f6e25184cb98de9c147c9b4aabbd63_lecture_26.pdf
+file_size: 217120
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
