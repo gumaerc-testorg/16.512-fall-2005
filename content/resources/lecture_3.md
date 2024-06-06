@@ -4,6 +4,7 @@ description: This resource contains informations about Ideal Nozzle Flow with no
   choice of optimum expansion for a rocket flying through an atmosphere, Ideal gas,
   and Nozzle Flow separation effects.
 file: /courses/16-512-rocket-propulsion-fall-2005/166e569adbdb734b0f03cbabcce50447_lecture_3.pdf
+file_size: 198767
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

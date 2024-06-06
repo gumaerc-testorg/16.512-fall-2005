@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains informations about liquid rockets, solid rockets,
   hybrid rockets and nuclear rockets.
 file: /courses/16-512-rocket-propulsion-fall-2005/7c8ca9a97829a5dbb8cdffa038c32f62_lecture_37.pdf
+file_size: 32835
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

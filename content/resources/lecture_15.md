@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains informations about solid propellant and rocket
   fundamentals.
 file: /courses/16-512-rocket-propulsion-fall-2005/8dbcc46074364d769630402f2b409e5d_lecture_15.pdf
+file_size: 169339
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

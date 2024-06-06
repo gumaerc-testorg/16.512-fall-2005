@@ -4,6 +4,7 @@ description: This resource contains informations about low thrust maneuvers and 
   within an orbit, hyperbolic orbits, interplanetary transfer, impact parameter and
   spheres of influence.
 file: /courses/16-512-rocket-propulsion-fall-2005/b0b082753985a3c02eb408af4d5a46a4_lecture_35_36.pdf
+file_size: 157987
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
