@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains types of rockets and types of engines used in
   them.
-file: /courses/16-512-rocket-propulsion-fall-2005/72eda4a1f4fc2bbade9d36b935f9b605_lecture_1.pdf
+file: /ol-ocw-studio-app/courses/16-512-rocket-propulsion-fall-2005/72eda4a1f4fc2bbade9d36b935f9b605_lecture_1.pdf
 file_size: 92407
 file_type: application/pdf
 learning_resource_types:
