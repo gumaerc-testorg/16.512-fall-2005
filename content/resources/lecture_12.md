@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains frozen, equilibrium expansion, Stoichiometry and
   Jet engine combustors.
-file: /ol-ocw-studio-app/courses/16-512-rocket-propulsion-fall-2005/bb64ea52e7421c68ee2254e3494df50b_lecture_12.pdf
+file: /courses/16-512-rocket-propulsion-fall-2005/bb64ea52e7421c68ee2254e3494df50b_lecture_12.pdf
 file_size: 204125
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations about impulse turbine, velocity compounding,
   general performance relationships for turbines and blade root stress.
-file: /ol-ocw-studio-app/courses/16-512-rocket-propulsion-fall-2005/3b3ee10ca72d822e2bc4831465ccd47f_lecture_27.pdf
+file: /courses/16-512-rocket-propulsion-fall-2005/3b3ee10ca72d822e2bc4831465ccd47f_lecture_27.pdf
 file_size: 174972
 file_type: application/pdf
 learning_resource_types:

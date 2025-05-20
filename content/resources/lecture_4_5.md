@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations about boundary with prescribed pressure,
   2-D Spike Nozzle and XRS-2200 engine data.
-file: /ol-ocw-studio-app/courses/16-512-rocket-propulsion-fall-2005/52d4ca845732d962c5e49697f8b99533_lecture_4_5.pdf
+file: /courses/16-512-rocket-propulsion-fall-2005/52d4ca845732d962c5e49697f8b99533_lecture_4_5.pdf
 file_size: 465012
 file_type: application/pdf
 learning_resource_types:
