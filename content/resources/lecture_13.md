@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains numerical iteration procedure, corrected temperature,
   corrected minor species and entropy.
-file: /ol-ocw-studio-app/courses/16-512-rocket-propulsion-fall-2005/3b97d7822a9de56b6d7a78cdb30cef28_lecture_13.pdf
+file: /courses/16-512-rocket-propulsion-fall-2005/3b97d7822a9de56b6d7a78cdb30cef28_lecture_13.pdf
 file_size: 86930
 file_type: application/pdf
 learning_resource_types:
