@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains informations about liquid motors.
-file: /courses/16-512-rocket-propulsion-fall-2005/73c06bb7b1abf0845bbd7a4e49e021ac_lecture_21.pdf
+file: /ol-ocw-studio-app/courses/16-512-rocket-propulsion-fall-2005/73c06bb7b1abf0845bbd7a4e49e021ac_lecture_21.pdf
 file_size: 11607
 file_type: application/pdf
 learning_resource_types:

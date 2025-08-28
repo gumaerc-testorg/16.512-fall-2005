@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations about cooling of liquid propellant
   rockets, regenerative cooling and stresses in cooled Nozzle Walls.
-file: /courses/16-512-rocket-propulsion-fall-2005/357a8f245e0020bcfa43530ba6ed1283_lecture_9.pdf
+file: /ol-ocw-studio-app/courses/16-512-rocket-propulsion-fall-2005/357a8f245e0020bcfa43530ba6ed1283_lecture_9.pdf
 file_size: 255477
 file_type: application/pdf
 learning_resource_types:

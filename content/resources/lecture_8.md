@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations about overall heat loss and performance
   effects of heat loss.
-file: /courses/16-512-rocket-propulsion-fall-2005/8d5f7ef89af50c9c5e537d78a43a71d5_lecture_8.pdf
+file: /ol-ocw-studio-app/courses/16-512-rocket-propulsion-fall-2005/8d5f7ef89af50c9c5e537d78a43a71d5_lecture_8.pdf
 file_size: 87857
 file_type: application/pdf
 learning_resource_types:
