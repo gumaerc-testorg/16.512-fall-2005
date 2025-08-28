@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-512-rocket-propulsion-fall-2005/15d5c5cb7f4dc109bf87d07c7c479cb4_lecture_10.pdf
+file: /ol-ocw-studio-app/courses/16-512-rocket-propulsion-fall-2005/15d5c5cb7f4dc109bf87d07c7c479cb4_lecture_10.pdf
 file_size: 284616
 file_type: application/pdf
 learning_resource_types:
