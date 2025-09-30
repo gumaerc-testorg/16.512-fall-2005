@@ -21,4 +21,4 @@ McAdams, William Henry. _Heat Transmission_. Melbourne, FL: Krieger Publishing, 
 
 Hagemann, Gerald, Hans Immich, Thong Van Nguyen, and Gennady Dumnov. "Advanced Rocket Nozzles." _Journal of Propulsion and Power_ 14, no. 5 (September-October 1998).
 
-Sirignano, William. "[Current Status of Spray Combustion Modelling](https://doi.org/10.2514/6.2003-4784)." 39th AIAA/ASME/SAE/ASEE Joint Propulsion Conference, Huntsville, Alabama, July 20-23 2003.
+Sirignano, William. "{{% resource_link "b308d8af-f78b-494b-8107-6fa84dd745ad" "Current Status of Spray Combustion Modelling" %}}." 39th AIAA/ASME/SAE/ASEE Joint Propulsion Conference, Huntsville, Alabama, July 20-23 2003.
